@@ -1,0 +1,43 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-image: url("/assets/img/work.jpg");
+    background-size: cover;
+    height: 320px;
+}
+
+.thumbnail {
+    height: 150px;
+}
+
+.caption h3 {
+    line-height: 80px;
+}
+
+.mt-3 {
+    margin-top: 30px;
+}
+
+.img .img-responsive {
+    margin: 0 auto;
+}
+
+.col-md-9 h3 {
+    margin-top: -4px;
+}
+
+.mt-1 {
+    margin-top: 10px;
+}
+
+.articles {
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
